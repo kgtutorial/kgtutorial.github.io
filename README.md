@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Knowledge Graph Construction From Text
 
-You can use the [editor on GitHub](https://github.com/kgtutorial/kgtutorial.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+With the proliferation of large collections of unstructured text, the problem of extracting structured knowledge and integrating it into a coherent knowledge graph has become increasingly important.
+Applications that rely on structured knowledge representations include digital assistants (Siri, Alexa, Cortana, and Google Now), question answering, summarization, and as well as many downstream autonomous decision-making.
+Due to its importance, this area has been an active area of research spanning areas of natural language processing, information extraction, information integration, databases, search, and machine learning. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The variety and complexity of the available scholarly work, however, makes it difficult for a newcomer to familiarize themselves with the field.
+Knowledge graph construction has been decomposed into a large number of inter-dependent and sometimes overlapping tasks, such as the traditional natural language processing, semantic parsing, entity extraction, entity disambiguation and linking, identification and classification of relations, and completion of the knowledge graph.
+The kinds of machine learning approaches have also been quite varied, ranging from classification/clustering, probabilistic graphical models, probabilistic logic formulations, matrix/tensor factorization-based approaches, and more recently, deep learning.
+There are also a plethora of existing systems that have been proposed, including from top universities such as Stanford (DeepDive), Carnegie Mellon (NELL), University of Washington (OpenIE), Mannheim (DBpedia), and the Max Planck Institut Informatik (YAGO, WebChild) among others.
+This diverse and fragmented literature poses a significant roadblock for newcomers to contribute to the field.
 
-### Markdown
+We are designing our tutorial to address this barrier. 
+Our goal is to present an accessible and structured overview of the existing approaches to extracting candidate facts from text and incorporating these into a well-formed knowledge graph. Our approach includes identifying the common themes and challenges in the area, and comparing and contrasting the existing approaches on the basis of these aspects.
+We believe such a unifying framework will provide the necessary tools and perspectives to enable the newcomers to the field to explore, evaluate, and develop novel techniques for automated knowledge graph construction.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+To edit this page, use [the editor](https://github.com/kgtutorial/kgtutorial.github.io/edit/master/README.md).
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kgtutorial/kgtutorial.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
