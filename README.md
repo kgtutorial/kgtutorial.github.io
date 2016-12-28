@@ -1,5 +1,7 @@
 ## Knowledge Graph Construction From Text
 
+### Jay Pujara, Sameer Singh, Bhavana Dalvi
+
 With the proliferation of large collections of unstructured text, the problem of extracting structured knowledge and integrating it into a coherent knowledge graph has become increasingly important.
 Applications that rely on structured knowledge representations include digital assistants (Siri, Alexa, Cortana, and Google Now), question answering, summarization, and as well as many downstream autonomous decision-making.
 Due to its importance, this area has been an active area of research spanning areas of natural language processing, information extraction, information integration, databases, search, and machine learning. 
@@ -14,7 +16,9 @@ We are designing our tutorial to address this barrier.
 Our goal is to present an accessible and structured overview of the existing approaches to extracting candidate facts from text and incorporating these into a well-formed knowledge graph. Our approach includes identifying the common themes and challenges in the area, and comparing and contrasting the existing approaches on the basis of these aspects.
 We believe such a unifying framework will provide the necessary tools and perspectives to enable the newcomers to the field to explore, evaluate, and develop novel techniques for automated knowledge graph construction.
 
+## Slides
 
+Coming soon!
 
 To edit this page, use [the editor](https://github.com/kgtutorial/kgtutorial.github.io/edit/master/README.md).
 
