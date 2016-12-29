@@ -1,7 +1,10 @@
 # Setup
 title:        Knowledge Construction From Text
-tagline:      A tutorial
+description:  A Tutorial
 baseurl:      ""
+
+# Cayman specific
+show_downloads:	false
 
 # About/contact
 author:
