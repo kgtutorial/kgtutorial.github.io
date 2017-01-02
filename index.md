@@ -1,6 +1,6 @@
 ---
 layout: default
-title: {{ site.name }}
+title: {{ site.title }}
 ---
 
 ## Knowledge Graph Construction From Text
