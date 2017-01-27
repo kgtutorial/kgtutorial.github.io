@@ -29,14 +29,14 @@ We believe such a unifying framework will provide the necessary tools and perspe
 
 #### Part 2: Knowledge Extraction from Text
 
-    - NLP Fundamentals
-    - Information Extraction
+- NLP Fundamentals
+- Information Extraction
 
 **Coffee Break**
 
 #### Part 3: Knowledge Graph Construction
 
-    - Probabilistic Models
-    - Embedding Techniques
+- Probabilistic Models
+- Embedding Techniques
 
 #### Part 4: Critical Overview and Conclusion
