@@ -28,18 +28,18 @@ We believe such a unifying framework will provide the necessary tools and perspe
 
 ![Tutorial Overview](img/overview.png "Overview of the Tutorial")
 
-#### Part 1: Knowledge Graph Primer \\\[ [Slides](slides/Part1_Intro.pdf) \\\]
+#### Part 1: Knowledge Graph Primer \[ [Slides](slides/Part1_Intro.pdf) \]
 
 #### Part 2: Knowledge Extraction from Text
 
-- NLP Fundamentals \\\[ [Slides](slides/Part2a_NLP.pdf) \\\]
-- Information Extraction \\\[ [Slides](slides/Part2b_IE.pdf) \\\]
+- NLP Fundamentals \[ [Slides](slides/Part2a_NLP.pdf) \]
+- Information Extraction \[ [Slides](slides/Part2b_IE.pdf) \]
 
 **Coffee Break**
 
 #### Part 3: Knowledge Graph Construction
 
-- Probabilistic Models \\\[ [Slides](slides/Part3a_Prob.pdf) \\\]
-- Embedding Techniques \\\[ [Slides](slides/Part3b_Embds.pdf) \\\]
+- Probabilistic Models \[ [Slides](slides/Part3a_Prob.pdf) \]
+- Embedding Techniques \[ [Slides](slides/Part3b_Embds.pdf) \]
 
-#### Part 4: Critical Overview and Conclusion \\\[ [Slides](slides/Part4_Summary.pdf) \\\]
+#### Part 4: Critical Overview and Conclusion \[ [Slides](slides/Part4_Summary.pdf) \]
