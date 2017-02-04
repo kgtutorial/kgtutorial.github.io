@@ -5,7 +5,9 @@ title: {{ site.title }}
 
 ## Knowledge Graph Construction From Text
 
-### Jay Pujara, Sameer Singh, Bhavana Dalvi
+<img alt="Jay Pujara" src="img/jay.png" height="200px"><img alt="Sameer Singh" src="img/sameer.png" height="200px"><img alt="Bhavana Dalvi" src="img/bhavana.png" height="200px">
+
+### [Jay Pujara](https://www.jaypujara.org/), [Sameer Singh](http://sameersingh.org/), [Bhavana Dalvi](http://allenai.org/team/bhavanad/)
 
 With the proliferation of large collections of unstructured text, the problem of extracting structured knowledge and integrating it into a coherent knowledge graph has become increasingly important.
 Applications that rely on structured knowledge representations include digital assistants (Siri, Alexa, Cortana, and Google Now), question answering, summarization, and as well as many downstream autonomous decision-making.
