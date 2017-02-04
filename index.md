@@ -5,7 +5,9 @@ title: {{ site.title }}
 
 ## Knowledge Graph Construction From Text
 
-<img alt="Jay Pujara" src="img/jay.png" height="200px"><img alt="Sameer Singh" src="img/sameer.png" height="200px"><img alt="Bhavana Dalvi" src="img/bhavana.png" height="200px">
+<a href="https://www.jaypujara.org/"><img alt="Jay Pujara" src="img/jay.png" height="200px"></a>
+<a href="http://sameersingh.org/"><img alt="Sameer Singh" src="img/sameer.png" height="200px"></a>
+<a href="http://allenai.org/team/bhavanad/"><img alt="Bhavana Dalvi" src="img/bhavana.png" height="200px"></a>
 
 ### [Jay Pujara](https://www.jaypujara.org/), [Sameer Singh](http://sameersingh.org/), [Bhavana Dalvi](http://allenai.org/team/bhavanad/)
 
