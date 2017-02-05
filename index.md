@@ -6,6 +6,7 @@ title: {{ site.title }}
 ## Knowledge Graph Construction From Text
 
 #### February 5, 2017
+
 #### Location: Continental 7-9, Ballroom Level (Hilton SF Union Sq)
 
 <a href="https://www.jaypujara.org/"><img alt="Jay Pujara" src="img/jay.png" height="200px"></a>
