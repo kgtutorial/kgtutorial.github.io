@@ -42,13 +42,13 @@ We believe such a unifying framework will provide the necessary tools and perspe
 
 ### Part 2: Knowledge Extraction from Text
 
-- NLP Fundamentals \[ [Slides](slides/Part2a_NLP.pdf) \]
+- NLP Fundamentals \[ [**Slides**](slides/Part2a_NLP.pdf) \]
    - Tokenization, chunking
    - Part-of-speech tagging
    - Named entity recognition
    - Dependency parsing
    - Entity resolution, coreference, and linking
-- Information Extraction \[ [Slides](slides/Part2b_IE.pdf) \]
+- Information Extraction \[ [**Slides**](slides/Part2b_IE.pdf) \]
    - Defining knowledge domains
    - Learning knowledge extractors
    - Scoring extracted knowledge
@@ -62,11 +62,11 @@ Compositional models   - Knowledge fusion
 
 ### Part 3: Knowledge Graph Construction
 - Graph construction overview
-- Probabilistic Models \[ [Slides](slides/Part3a_Prob.pdf) \]
+- Probabilistic Models \[ [**Slides**](slides/Part3a_Prob.pdf) \]
   - Motivation
   - Graphical models
   - Random walk approaches
-- Embedding Techniques \[ [Slides](slides/Part3b_Embds.pdf) \]
+- Embedding Techniques \[ [**Slides**](slides/Part3b_Embds.pdf) \]
   - Relation extraction techniques
     - Matrix factorization 
     - Embedding entity pairs
