@@ -5,6 +5,9 @@ title: {{ site.title }}
 
 ## Knowledge Graph Construction From Text
 
+#### February 5, 2017
+#### Location: Continental 7-9, Ballroom Level (Hilton SF Union Sq)
+
 <a href="https://www.jaypujara.org/"><img alt="Jay Pujara" src="img/jay.png" height="200px"></a>
 <a href="http://sameersingh.org/"><img alt="Sameer Singh" src="img/sameer.png" height="200px"></a>
 <a href="http://allenai.org/team/bhavanad/"><img alt="Bhavana Dalvi" src="img/bhavana.png" height="200px"></a>
