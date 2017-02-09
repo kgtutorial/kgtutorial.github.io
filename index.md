@@ -57,7 +57,7 @@ We believe such a unifying framework will provide the necessary tools and perspe
    - Learning knowledge extractors
    - Scoring extracted knowledge
    - Categories of IE techniques
-Compositional models   - Knowledge fusion 
+   - Compositional models: Knowledge fusion 
    - IE systems in practice
 
 
