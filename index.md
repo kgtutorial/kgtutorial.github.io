@@ -5,6 +5,7 @@ title: {{ site.title }}
 
 ## Knowledge Graph Construction From Text
 
+#### AAAI 2017 Tutorial <a href="http://www.aaai.org/Conferences/AAAI/2017/aaai17program.pdf">AAAI schedule</a>
 #### February 5, 2017
 
 #### Location: Continental 7-9, Ballroom Level (Hilton SF Union Sq)
