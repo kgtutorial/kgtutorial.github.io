@@ -38,7 +38,7 @@ We believe such a unifying framework will provide the necessary tools and perspe
 
 ![Tutorial Overview](img/overview.png "Overview of the Tutorial")
 
-### Part 1: Knowledge Graph Primer \[ [Slides](slides/Part1_Intro.pdf) \]
+### Part 1: Knowledge Graph Primer \[ [Slides](aaai-slides/Part1_Intro.pdf) \]
 - What is a Knowledge Graph?
 -	Why are Knowledge Graphs Important?
 -	Where do Knowledge Graphs come from?
@@ -48,13 +48,13 @@ We believe such a unifying framework will provide the necessary tools and perspe
 
 ### Part 2: Knowledge Extraction from Text
 
-- NLP Fundamentals \[ [**Slides**](slides/Part2a_NLP.pdf) \]
+- NLP Fundamentals \[ [**Slides**](aaai-slides/Part2a_NLP.pdf) \]
    - Tokenization, chunking
    - Part-of-speech tagging
    - Named entity recognition
    - Dependency parsing
    - Entity resolution, coreference, and linking
-- Information Extraction \[ [**Slides**](slides/Part2b_IE.pdf) \]
+- Information Extraction \[ [**Slides**](aaai-slides/Part2b_IE.pdf) \]
    - Defining knowledge domains
    - Learning knowledge extractors
    - Scoring extracted knowledge
@@ -68,11 +68,11 @@ We believe such a unifying framework will provide the necessary tools and perspe
 
 ### Part 3: Knowledge Graph Construction
 - Graph construction overview
-- Probabilistic Models \[ [**Slides**](slides/Part3a_Prob.pdf) \]
+- Probabilistic Models \[ [**Slides**](aaai-slides/Part3a_Prob.pdf) \]
   - Motivation
   - Graphical models
   - Random walk approaches
-- Embedding Techniques \[ [**Slides**](slides/Part3b_Embds.pdf) \]
+- Embedding Techniques \[ [**Slides**](aaai-slides/Part3b_Embds.pdf) \]
   - Relation extraction techniques
     - Matrix factorization 
     - Embedding entity pairs
@@ -81,7 +81,7 @@ We believe such a unifying framework will provide the necessary tools and perspe
     - Entity and relation embeddings
     - Compositional models
 
-### Part 4: Critical Overview and Conclusion \[ [Slides](slides/Part4_Summary.pdf) \]
+### Part 4: Critical Overview and Conclusion \[ [Slides](aaai-slides/Part4_Summary.pdf) \]
 - Summary                   
 - Success stories       
 - Datasets, tasks, softwares   
