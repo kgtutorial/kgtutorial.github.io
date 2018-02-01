@@ -75,3 +75,6 @@ We believe such a unifying framework will provide the necessary tools and perspe
 - Datasets, tasks, softwares   
 - Exciting active research    
 - Future research directions    
+
+
+## See materials for our previous tutorial at [AAAI 2017](aaai.html)
