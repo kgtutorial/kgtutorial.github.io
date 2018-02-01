@@ -1,6 +1,6 @@
 ---
 layout: default
-title: {{ site.title }}
+title: Mining Knowledge Graphs from Text
 ---
 
 ## Mining Knowledge Graphs from Text
