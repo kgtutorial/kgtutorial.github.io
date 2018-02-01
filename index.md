@@ -3,23 +3,22 @@ layout: default
 title: {{ site.title }}
 ---
 
-## Knowledge Graph Construction From Text
+## Mining Knowledge Graphs from Text
 
-#### AAAI 2017 Tutorial <a href="http://www.aaai.org/Conferences/AAAI/2017/aaai17program.pdf">(schedule)</a>
+#### WSDM 2018 Tutorial <a href="http://www.wsdm-conference.org/2018/tutorials.html">(schedule)</a>
 
-#### February 5, 2017
+#### February 5, 2018, 1:30PM - 5:00PM
 
-#### Location: Continental 7-9, Ballroom Level (Hilton SF Union Sq)
+#### Location: Ballroom Terrace (The Ritz-Carlton, Marina del Rey)
 
 <a href="https://www.jaypujara.org/"><img alt="Jay Pujara" src="img/jay.png" height="200px"></a>
 <a href="http://sameersingh.org/"><img alt="Sameer Singh" src="img/sameer.png" height="200px"></a>
-<a href="http://allenai.org/team/bhavanad/"><img alt="Bhavana Dalvi" src="img/bhavana.png" height="200px"></a>
 
-### [Jay Pujara](https://www.jaypujara.org/), [Sameer Singh](http://sameersingh.org/), [Bhavana Dalvi](http://allenai.org/team/bhavanad/)
+### [Jay Pujara](https://www.jaypujara.org/), [Sameer Singh](http://sameersingh.org/)
 
-With the proliferation of large collections of unstructured text, the problem of extracting structured knowledge and integrating it into a coherent knowledge graph has become increasingly important.
-Applications that rely on structured knowledge representations include digital assistants (Siri, Alexa, Cortana, and Google Now), question answering, summarization, and as well as many downstream autonomous decision-making.
-Due to its importance, this area has been an active area of research spanning areas of natural language processing, information extraction, information integration, databases, search, and machine learning.
+Knowledge graphs have become an increasingly crucial component in machine intelligence systems, powering ubiquitous digital assistants and inspiring several large scale academic projects across the globe. Our tutorial explains why knowledge graphs are important, how knowledge graphs are constructed, and where new research opportunities exist for improving the state-of-the-art. 
+In this tutorial, we cover the many sophisticated approaches that complete and correct knowledge graphs. We organize this exploration into two main classes of models. The first include probabilistic logical frameworks that use graphical models, random walks, or statistical rule mining to construct knowledge graphs. The second class of models includes latent space models such as matrix and tensor factorization and neural networks. 
+We conclude the tutorial with a critical comparison of techniques and results. We will offer practical advice for novices to identify common empirical challenges and concrete data sets for initial experimentation. Finally, we will highlight promising areas of current and future work.
 
 <!--
 The variety and complexity of the available scholarly work, however, makes it difficult for a newcomer to familiarize themselves with the field.
@@ -38,7 +37,7 @@ We believe such a unifying framework will provide the necessary tools and perspe
 
 ![Tutorial Overview](img/overview.png "Overview of the Tutorial")
 
-### Part 1: Knowledge Graph Primer \[ [Slides](slides/Part1_Intro.pdf) \]
+### Part 1: Knowledge Graph Primer \[ [Slides](wsdm-slides/Part1_Intro.pdf) \]
 - What is a Knowledge Graph?
 -	Why are Knowledge Graphs Important?
 -	Where do Knowledge Graphs come from?
@@ -46,33 +45,22 @@ We believe such a unifying framework will provide the necessary tools and perspe
 -	Problem Overview
  
 
-### Part 2: Knowledge Extraction from Text
-
-- NLP Fundamentals \[ [**Slides**](slides/Part2a_NLP.pdf) \]
-   - Tokenization, chunking
-   - Part-of-speech tagging
-   - Named entity recognition
-   - Dependency parsing
-   - Entity resolution, coreference, and linking
-- Information Extraction \[ [**Slides**](slides/Part2b_IE.pdf) \]
-   - Defining knowledge domains
-   - Learning knowledge extractors
-   - Scoring extracted knowledge
-   - Categories of IE techniques
-   - Compositional models: Knowledge fusion 
-   - IE systems in practice
-
-
+### Part 2: Knowledge Extraction Primer \[ [**Slides**](wsdm-slides/Part2_KE.pdf) \]
+- NLP Fundamentals (tagging, parsing, named entity recognition and entity resolution)
+- Learning knowledge extractors
+- Scoring extracted knowledge
+- Categories of IE techniques
+- Compositional models: Knowledge fusion 
 
 #### Coffee Break
 
 ### Part 3: Knowledge Graph Construction
 - Graph construction overview
-- Probabilistic Models \[ [**Slides**](slides/Part3a_Prob.pdf) \]
+- Probabilistic Models \[ [**Slides**](wsdm-slides/Part3a_Prob.pdf) \]
   - Motivation
   - Graphical models
   - Random walk approaches
-- Embedding Techniques \[ [**Slides**](slides/Part3b_Embds.pdf) \]
+- Embedding Techniques \[ [**Slides**](wsdm-slides/Part3b_Embds.pdf) \]
   - Relation extraction techniques
     - Matrix factorization 
     - Embedding entity pairs
@@ -81,7 +69,7 @@ We believe such a unifying framework will provide the necessary tools and perspe
     - Entity and relation embeddings
     - Compositional models
 
-### Part 4: Critical Overview and Conclusion \[ [Slides](slides/Part4_Summary.pdf) \]
+### Part 4: Critical Overview and Conclusion \[ [Slides](wsdm-slides/Part4_Summary.pdf) \]
 - Summary                   
 - Success stories       
 - Datasets, tasks, softwares   
