@@ -45,7 +45,7 @@ We believe such a unifying framework will provide the necessary tools and perspe
 -	Problem Overview
  
 
-### Part 2: Knowledge Extraction Primer \[ [**Slides**](wsdm-slides/Part2_KE.pdf) \]
+### Part 2: Knowledge Extraction Primer \[ [**Slides**](wsdm-slides/Part2_knowledge-extraction.pdf) \]
 - NLP Fundamentals (tagging, parsing, named entity recognition and entity resolution)
 - Learning knowledge extractors
 - Scoring extracted knowledge
@@ -56,11 +56,11 @@ We believe such a unifying framework will provide the necessary tools and perspe
 
 ### Part 3: Knowledge Graph Construction
 - Graph construction overview
-- Probabilistic Models \[ [**Slides**](wsdm-slides/Part3a_Prob.pdf) \]
+- Probabilistic Models \[ [**Slides**](wsdm-slides/Part3_Probabilistic-Models.pdf) \]
   - Motivation
   - Graphical models
   - Random walk approaches
-- Embedding Techniques \[ [**Slides**](wsdm-slides/Part3b_Embds.pdf) \]
+- Embedding Techniques \[ [**Slides**](wsdm-slides/Part4_kg-embeddings.pdf) \]
   - Relation extraction techniques
     - Matrix factorization 
     - Embedding entity pairs
@@ -69,7 +69,7 @@ We believe such a unifying framework will provide the necessary tools and perspe
     - Entity and relation embeddings
     - Compositional models
 
-### Part 4: Critical Overview and Conclusion \[ [Slides](wsdm-slides/Part4_Summary.pdf) \]
+### Part 4: Critical Overview and Conclusion \[ [Slides](wsdm-slides/Part5_summary_slides.pdf) \]
 - Summary                   
 - Success stories       
 - Datasets, tasks, softwares   
