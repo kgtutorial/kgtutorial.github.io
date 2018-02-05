@@ -52,7 +52,7 @@ We believe such a unifying framework will provide the necessary tools and perspe
 - Categories of IE techniques
 - Compositional models: Knowledge fusion 
 
-#### Coffee Break
+
 
 ### Part 3: Knowledge Graph Construction
 - Graph construction overview
@@ -60,6 +60,9 @@ We believe such a unifying framework will provide the necessary tools and perspe
   - Motivation
   - Graphical models
   - Random walk approaches
+
+### Coffee Break
+
 - Embedding Techniques \[ [**Slides**](wsdm-slides/Part4_kg-embeddings.pdf) \]
   - Relation extraction techniques
     - Matrix factorization 
